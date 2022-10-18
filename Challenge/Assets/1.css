@@ -1,0 +1,7 @@
+header {
+    background-color: teal;
+    color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    
+}
