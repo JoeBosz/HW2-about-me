@@ -5,20 +5,38 @@
 }
 
 nav {
+    color: darkblue;
     display: flex;
     flex-direction: row;
     gap: 2.5rem;
     justify-content: right;
-    text-decoration: underline;
     text-decoration: none;
+    
 }
 
 h2 {
     background-color: white;
     color: black;
     text-align: center;
-    font-size: medium;
+    font-size: larger;
     padding: 2%;
 }
 
+img {
+    width: 100%;
+    aspect-ratio: 16/9;
+}
 
+h3 {
+    color: black;
+    background-color: white;
+    padding: 8%;
+    text-align: center;
+    font-size: large;
+
+}
+
+h4 {
+    color: silver;
+    text-align: center;
+}
